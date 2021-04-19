@@ -5,15 +5,15 @@ The Meditation App that lets you set an alarm for how long you want to meditate 
 Instructions
 When you open up the app you will see the home page.
 
-![GUI1](imageGUI/Home page.png)
+![GUI1](imageGUI/Homepage.png)
 
  To get to the alarm set page you will use the navigation bar buttons to show the screen options and choose the alarm set page.
 On the alarm page once inputted the hours and minutes and pressed set. The current date, time and amount of time is saved to a database file to be viewed later on a table on the home page. 
 
-![GUI2](imageGUI/alarm page2.png)
+![GUI2](imageGUI/alarmpage2.png)
 
 This will bring you to the alarm clock to count down and setup a notification to start when alarm is complete.
 
-![GUI3](imageGUI/alarmset/png)
+![GUI3](imageGUI/alarmset.png)
 
 When complete there will be buzzing the phone letting you know the alarm went off.
